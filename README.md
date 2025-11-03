@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Kundan Kumar -->
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00BFFF;">Kundan Kumar</span></h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Next.js </h3>
+<h3 align="center">💻 Full Stack Developer | MERN | Next.js | Ai </h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript;Building+beautiful+and+scalable+apps+💡;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
