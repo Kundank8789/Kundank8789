@@ -20,7 +20,7 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning **Next.js & Golang**  
-- 💡 Passionate about **building scalable, modern web apps,AI-powered web apps,Next.js**  
+- 💡 Passionate about **building scalable, modern, and AI-powered web applications using Next.js**  
 - 🚀 My live projects:  
   🔗 [AI Fitness Tracker (Vercel)](https://url-rcrw.vercel.app/)  
   🔗 [URL Shortener (Vercel)](https://url-rcrw.vercel.app/)  
