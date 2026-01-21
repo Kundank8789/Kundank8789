@@ -22,8 +22,9 @@
 - 🌱 Currently learning **Next.js & Golang**  
 - 💡 Passionate about **building scalable, modern, and AI-powered web applications using Next.js**  
 - 🚀 My live projects:
-- 🔗 [Portfolio Websitw (Vercel)](https://job-portfolio-dusky.vercel.app/)-
-- 🔗 [Grocery App (Vercel)](https://grocery-app-folder-next-js.vercel.app/)  
+- 🔗 [Portfolio Websitw (Vercel)](https://job-portfolio-dusky.vercel.app/)
+- 🔗 [Grocery App (Vercel)](https://grocery-app-folder-next-js.vercel.app/)
+- 🔗 [AI Code Review SaaS (Vercel)](https://ai-code-review-coderabbit.vercel.app)  
 - 🔗 [AI Fitness Tracker (Vercel)](https://ai-fitness-coach-liart.vercel.app/)  
 - 🔗 [URL Shortener (Vercel)](https://url-rcrw.vercel.app/)  
 - 📧 Reach me at: **kundansinghh87@gmail.com**
