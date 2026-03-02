@@ -23,6 +23,7 @@
 - 💡 Passionate about **building scalable, modern, and AI-powered web applications using Next.js**  
 - 🚀 My live projects:
 - 🔗 [Portfolio Websitw (Vercel)](https://job-portfolio-dusky.vercel.app/)
+- 🔗 [AI Customer Support (Vercel)](https://ai-customer-support-navy.vercel.app/)
 - 🔗 [Grocery App (Vercel)](https://grocery-app-folder-next-js.vercel.app/)
 - 🔗 [AI Code Review SaaS (Vercel)](https://ai-code-review-coderabbit.vercel.app)  
 - 🔗 [AI Fitness Tracker (Vercel)](https://ai-fitness-coach-liart.vercel.app/)  
