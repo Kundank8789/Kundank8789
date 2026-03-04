@@ -19,8 +19,8 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **Next.js & Golang**  
-- 💡 Passionate about **building scalable, modern, and AI-powered web applications using Next.js**  
+- 🌱 Currently learning **Next.js**  
+- 💡 Passionate about **building scalable, modern, and AI-powered web applications using react and Next.js**  
 - 🚀 My live projects:
 - 🔗 [Portfolio Websitw (Vercel)](https://job-portfolio-dusky.vercel.app/)
 - 🔗 [AI Customer Support (Vercel)](https://ai-customer-support-navy.vercel.app/)
